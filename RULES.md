@@ -1,4 +1,4 @@
-# CatDog
+# CatDog - Котопес
 WebApplication for target's platform of animals. Веб-приложение для размещения объявлеений о продаже животных.
 Язык программирования - C#
 Платформа разработки: ASP.NET Core (MVC)
